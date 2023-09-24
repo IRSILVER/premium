@@ -1,0 +1,6 @@
+local blacklist = {
+[12] = "Sharing keys",
+[0] = "no",
+}
+
+return blacklist
